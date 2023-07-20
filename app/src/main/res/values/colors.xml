@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="colorPrimary">@color/red_marvel</color>
+    <color name="colorPrimaryVariant">@color/red_marvel_light</color>
+    <color name="colorAccent">@color/teal</color>
+    <color name="colorAccentVariant">@color/teal_light</color>
+    <color name="colorWarning">@color/orange</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="red_marvel">#ED1D24</color>
+    <color name="red_marvel_light">#E66065</color>
+    <color name="translucent_white">#D9FFFFFF</color>
+    <color name="teal">#1DEDE6</color>
+    <color name="teal_light">#1DEDE6</color>
+    <color name="orange">#FFB342</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OompaLoompa</string>
+
+    <string name="ol_logo">Oompa Loompa logo</string>
+
+    <string name="content_description_ol_avatar">Oompa Loompa avatar</string>
+    <string name="content_description_right_chevron">Right chevron to navigate to hero detail</string>
+    <string name="coming_soon">Coming soon</string>
+
+    <string name="no_description">No description yet…</string>
+    <string name="no_results">No results</string>
+    <string name="ok">OK</string>
+
+    <string name="error_network">Connection error, please try again later</string>
+    <string name="error_not_found">Item not found</string>
+    <string name="error_service_unavailable">Service temporarily unavailable, please try again later</string>
+    <string name="error_unknown">An error occurred, please try again later</string>
+</resources>

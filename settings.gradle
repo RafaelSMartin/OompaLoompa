@@ -1,0 +1,4 @@
+rootProject.name = "OompaLoompa"
+include ':app'
+include ':data'
+include ':domain'
